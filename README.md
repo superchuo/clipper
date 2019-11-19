@@ -1,0 +1,2 @@
+# clipper
+Expert clipper develoment
